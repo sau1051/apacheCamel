@@ -1,4 +1,4 @@
-package org.saurabh.learning.apachecamel;
+package org.saurabh.learning.apachecamel.example1;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.impl.DefaultCamelContext;
