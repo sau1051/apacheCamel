@@ -11,7 +11,7 @@ public class HelloWorld {
 		
 		camelContext.addRoutes(new HelloWorldRoutes());
 		
-		//camelContext.start();
+		camelContext.start();
 
 	}
 
